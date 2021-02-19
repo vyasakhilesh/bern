@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# srun --pty -G 1 singularity exec bern3.sif bash
+
 #trap "exit" INT TERM ERR
 
 #trap "kill 0" EXIT
