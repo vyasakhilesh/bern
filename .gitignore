@@ -7,6 +7,12 @@ pubmed_pubtator/
 biobert_ner/pretrainedBERT/
 biobert_ner/result/
 biobert_ner/tmp/
+logs/
+output/
+*.zip
+GNormPlusJava/
+tmVarJava/
+normalization/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
